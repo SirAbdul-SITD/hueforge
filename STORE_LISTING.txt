@@ -1,0 +1,44 @@
+HUEFORGE — Google Play Store Listing
+com.xzozoqui.hueforge
+https://tjsocials.name.ng/apps/hueforge_privacy_policy.html
+=====================================
+
+App name:
+  Hueforge — Color Picker & Contrast Checker
+
+Short description (max 80 chars):
+  Pick, convert, check contrast. RGB, HSL, HSV, hex, and real WCAG.
+
+Full description:
+---------------------------------------------------------------
+Hueforge is a color tool for anyone who works with color — designers,
+developers, or anyone picking a palette.
+
+Pick a color with hue/saturation/value sliders or type a hex code
+directly. See it instantly in RGB, HSL, HSV, and hex, with one tap to
+copy any format. Generate a 6-color harmony palette (complementary,
+analogous, triadic) from any base color. And check real WCAG contrast
+ratios between any two colors — the actual accessibility math, not a
+cosmetic guess.
+
+FEATURES
+• Full HSV color picker with live hex/RGB/HSL/HSV conversion
+• One-tap copy for any color format
+• 6-color harmony palette generator (complementary, analogous, triadic)
+• Real WCAG 2.x contrast ratio calculator with AA/AAA pass-fail for both
+  normal and large text
+• Save colors for quick reference later
+• Fully offline. No ads, no accounts, no tracking.
+
+Pick, convert, check contrast.
+
+Category: Tools / Design
+Content rating: Everyone
+Tags: color picker, color converter, hex color, contrast checker, wcag, offline, no ads
+---------------------------------------------------------------
+
+ASSETS INCLUDED
+  - assets/icon.png            (512x512 app icon)
+  - assets/feature_graphic.png (1024x500 feature graphic)
+  - screens/                   (5 Play Store screenshots, 1080x1920)
+  - PRIVACY_POLICY.html        (host this and link it in the listing)
